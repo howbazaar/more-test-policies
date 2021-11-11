@@ -1,0 +1,6 @@
+# Valid YAML, not a valid policies file
+
+policies:
+  # Should have an array of policies.
+  name: import-dir-sg
+  resource: aws.security-group

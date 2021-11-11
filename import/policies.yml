@@ -1,0 +1,3 @@
+policies:
+  - name: import-dir-sg
+    resource: aws.security-group

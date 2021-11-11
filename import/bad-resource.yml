@@ -1,0 +1,5 @@
+# Valid YAML, bad resource.
+
+policies:
+  - name: import-dir-unknown-resource
+    resource: aws.mega-new

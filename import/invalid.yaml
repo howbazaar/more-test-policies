@@ -1,0 +1,4 @@
+# Bad YAML
+policies:
+  - name: {{testing}} confusion
+  - resource: aws.ec2
